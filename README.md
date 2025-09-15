@@ -4,6 +4,7 @@ This project is my submission for the **Xeno FDE Internship Assignment – 2025*
 It demonstrates a **multi-tenant Shopify data ingestion service** with an **insights dashboard**.
 
 Live: https://shopify-insights-service.vercel.app/
+https://shopify-insights-service-git-main-apurav-swamis-projects.vercel.app/
 ---
 
 ## ✨ Features
